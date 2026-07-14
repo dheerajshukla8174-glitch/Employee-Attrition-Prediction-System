@@ -18,10 +18,10 @@ An end-to-end Employee Attrition Prediction System built using Python, Pandas, N
 - Joblib
 - Streamlit
   # Machine Learning Algorithm
-  -Logistic Regression
-  -Decision Tree
-  -Random Forest
-  Logistic Regression delivered best performance in terms of accuracy
+-Logistic Regression
+-Decision Tree
+-Random Forest
+Logistic Regression delivered best performance in terms of accuracy
   and considered as final model for prediction. 
 ## Project Structure
 Employee-Attrition-Prediction/
