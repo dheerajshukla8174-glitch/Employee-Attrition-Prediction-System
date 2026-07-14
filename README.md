@@ -21,8 +21,8 @@ An end-to-end Employee Attrition Prediction System built using Python, Pandas, N
 - Logistic Regression
 - Decision Tree
 - Random Forest
-  Final Model:
-Logistic Regression delivered best performance in terms of accuracy
+- Final Model:
+- Logistic Regression delivered best performance in terms of accuracy
   and considered as final model for prediction. 
 ## Project Structure
 Employee-Attrition-Prediction/
